@@ -1,0 +1,24 @@
+Report created: 
+	2/01/2021	12:41:33 PM
+
+Project name: Rocket_Chat_Logo.aep
+
+Source files collected to: 
+	C:\Users\danip\Documents\RGW\Chritmas_Tree\Rocket_Chat_Logo folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	Rocket_Chat_Logo
+	
+Number of collected files:  1
+
+Size of collected files:  58 KB
+
+Collected source files: 
+	C:\Users\danip\Documents\RGW\Logo\Rocket_Chat_Logo.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	

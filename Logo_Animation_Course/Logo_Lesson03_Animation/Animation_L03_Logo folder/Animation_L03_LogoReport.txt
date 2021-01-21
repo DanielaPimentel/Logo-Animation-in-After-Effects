@@ -1,0 +1,31 @@
+Report created: 
+	7/01/2021	3:45:04 PM
+
+Project name: Animation_L03_Logo.aep
+
+Source files collected to: 
+	C:\Users\danip\Documents\RGW\Logo_Animation_Course\Logo_Lesson03_Animation\Animation_L03_Logo folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	Animation_Logo_L03
+	
+Number of collected files:  1
+
+Size of collected files:  369 KB
+
+Collected source files: 
+	C:\Users\danip\Documents\RGW\Logo_Animation_Course\Logo_Lesson03_Animation\Animation_Logo_L03.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  2
+
+Effect:  
+	
+Effect:  CC Bend It
+	
+
