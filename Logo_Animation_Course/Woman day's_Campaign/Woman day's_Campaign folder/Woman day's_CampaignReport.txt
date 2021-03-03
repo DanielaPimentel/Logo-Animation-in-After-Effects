@@ -1,0 +1,30 @@
+Report created: 
+	4/03/2021	2:28:42 AM
+
+Project name: Woman day's_Campaign.aep
+
+Source files collected to: 
+	D:\GitHub\Logo-Animation-in-After-Effects\Logo_Animation_Course\Woman day's_Campaign\Woman day's_Campaign folder
+
+Source files collected: All
+
+Collected comps:  
+	Woman day's_Campaign02 _AI
+	
+Number of collected files:  1
+
+Size of collected files:  1.3 MB
+
+Collected source files: 
+	D:\GitHub\Logo-Animation-in-After-Effects\Logo_Animation_Course\Woman day's_Campaign\Woman day's_Campaign02 _AI.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  2
+
+Effect:  
+	
+Effect:  CC Bend It
+	
+
